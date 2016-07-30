@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#mapa{
+    height: 100%;
+    width: 100%;
+
+}
+#titulo{
+    font-family: "Arial";
+    color: #2e6af1;
+    text-align: center;
+}
